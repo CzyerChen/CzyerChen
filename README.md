@@ -1,8 +1,5 @@
 ### Welcome to Claire's Home Page 👋
 
-<!--
-**CzyerChen/CzyerChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🌱🌱🌱🌱=======================================================================🌱🌱🌱🌱
 
 Hey，我是Claire-也无言，一只常年混迹于男人堆中的Java程序媛，坚持不懈追求诗和远方 👯 👯 👯 👯 👯 👯
